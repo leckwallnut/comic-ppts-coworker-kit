@@ -1,0 +1,10 @@
+# Authoring workflow
+
+1. Read SKILL.md, design-system.md, asset-library.md and motion.md. Load the available PowerPoint authoring workflow and follow its authoring/export/finalization rules.
+2. Read the requested content, learner level, duration and slide count. Infer routine choices from context; ask only for missing information that blocks useful work. Reference content is a sample, not a lesson duration, audience or slide-count default.
+3. Plan slide purpose and composition, including background, pane family, tab text, footer text, and click sequence. Use sufficient room for readable teaching copy. Reuse activities appropriate to Speaking and Listening: predictions, key-detail listening, interviews, turn-taking, clarification, summarizing, pronunciation practice, discussion and debate.
+4. Work on a copy of the reference or create an appropriate deck with the bundled visual system. Preserve the original reference. Insert local image bytes with native editable text above them. Keep required source facts, exercises and answers accurate and complete. Do not invent a transcript or source claim.
+5. Put headings in tabs and instructions in the main pane. Choose tab size based on text, not the reverse. A tan caption/footer is an intentional label/answer region; populate it where meaningful or choose a component without it. Do not fill an answer before the intended teaching reveal.
+6. Add native transitions and meaningful click reveals if the environment supports them. Read motion.md; keep all target names stable. Do not flatten text and answer into one background if independent reveal is needed.
+7. Render and inspect every slide: readability, font consistency, contrast, alpha, clipping, cropped characters, text-safe zones, empty labels, useful background visibility and layout variety. Recheck after fixes.
+8. Validate the exported PPTX with the local PowerPoint validation workflow. Check native motion survives the final export and use real slideshow playback if available. Return the PPTX, distinguish implemented effects from unverified plans, and mention only limitations material to use.

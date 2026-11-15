@@ -1,0 +1,12 @@
+{
+  "duration": 0.35,
+  "slides": [
+    {"slide": 1, "targets": [{"name": "Hero entrance", "effect": "Fade"}]},
+    {"slide": 2, "targets": [{"name": "Answer", "effect": "Fade"}]},
+    {"slide": 3, "targets": [
+      {"name": "THINK prompt", "effect": "Fade"},
+      {"name": "PAIR prompt", "effect": "Fade"},
+      {"name": "SHARE prompt", "effect": "Fade"}
+    ]}
+  ]
+}

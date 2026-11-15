@@ -1,0 +1,56 @@
+# The Mouth and The Ear: 20 supporting character concepts
+
+Ten villains and ten civilians across four labeled concept sheets. Created using the built-in image generation tool. These are cast exploration sheets, with five characters per image. The names and roles below are starting points for classroom stories.
+
+## Villains
+
+| Character | Power or behavior | Classroom story opportunity |
+|---|---|---|
+| Signal Jammer | Scrambles messages with static rings | Ask for clarification and confirm what was heard. |
+| The Tangent | Sends a conversation down unrelated paths | Return to the question and use relevant details. |
+| Captain Crosstalk | Creates competing voices | Practice turn-taking and discussion roles. |
+| The Distractor | Fills the air with notification tiles | Identify key information despite distractions. |
+| Overload | Floods people with information | Chunk instructions and summarize priorities. |
+| Word Twister | Bends words into misleading meanings | Paraphrase accurately and check interpretations. |
+| Echo Chamber | Repeats only one viewpoint | Consider alternative perspectives and evidence. |
+| Rumor Weaver | Connects unverified claims | Distinguish evidence, inference and rumor. |
+| Context Thief | Removes important background information | Ask what information is missing. |
+| The Monologue | Holds the floor with endless speeches | Practice concise speaking and inviting responses. |
+
+## Civilians
+
+| Character | Role and personality | Classroom story opportunity |
+|---|---|---|
+| Maya | Curious university student | Partner conversations, presentations and group projects. |
+| Jun | Attentive student journalist | Interviews, follow-up questions and reporting. |
+| Ms. Rivera | Encouraging teacher | Instructions, feedback and discussion prompts. |
+| Eli | Capable audio technician | Explain a process, troubleshoot and clarify directions. |
+| Amara | Welcoming community organizer | Lead meetings, build consensus and make proposals. |
+| Leo | Cheerful cafe worker | Service encounters, requests and resolving misunderstandings. |
+| Priya | Thoughtful librarian | Recommend resources, explain choices and guide research. |
+| Mr. Chen | Animated neighborhood shopkeeper | Personal narratives, local news and storytelling. |
+| Zoe | Curious engineering student and wheelchair user | Collaborative design, problem-solving and explaining ideas. |
+| Sam | Reassuring city bus driver | Give directions, explain changes and answer questions. |
+
+## Visual continuity
+
+Contemporary comic ink, cel shading and halftone textures coordinate with the existing heroes and panel assets. Villains use dark navy studio backgrounds; civilians use light ivory. Coral and cyan connect the cast to the established palette. Each individual design remains a candidate rather than a finalized recurring character.
+
+## Generation prompts
+
+### 01-villains-signal-and-noise
+
+Create a polished character-design lineup sheet for an original Speaking and Listening classroom superhero comic universe starring The Mouth and The Ear. Contemporary comic art: expressive black ink, sharp cel shading, subtle Ben-Day halftones, coral red, electric cyan, midnight navy, warm ivory, tiny golden accents. Landscape wide 16:9 sheet. Exactly FIVE distinct full-body adult characters in five evenly spaced columns, complete head-to-toe figures, each isolated with space around silhouette. All figures comparable scale, no overlapping. These are original fictional characters, not existing franchise designs. Friendly classroom-appropriate comic storytelling, no gore or weapons. Each character has ONE clear legible name printed underneath in bold simple comic lettering; no other text. Cohesive professional concept art, readable costume differences. FIRST VILLAIN LINEUP. Dark midnight navy studio backdrop with restrained halftone, ivory name labels. Left to right: 1 'SIGNAL JAMMER': tall imposing adult man with navy armored coat, coral angular visor, antenna-like shoulder fins and cyan static rings hovering around gloved hands; scrambles messages, technological trickster. 2 'THE TANGENT': wiry adult woman with asymmetric coral coat, spiky purple-black hair, crooked cyan arrow motifs spiraling from sleeves, theatrical mischievous pose; redirects conversations. 3 'CAPTAIN CROSSTALK': stocky adult man in coral/navy jacket with multiple little speaker discs on shoulders, double zigzag chest emblem, hands gesturing in competing directions; confident noisy showman. 4 'THE DISTRACTOR': agile adult woman with short cyan-streaked dark hair, navy streetwear and bright coral sleeves, floating abstract glowing notification tiles around shoulders, cheeky grin. 5 'OVERLOAD': broad gender-ambiguous adult figure in layered navy and cyan tech suit, a halo of many small blank coral information cards, expressive face visible, overwhelmed stream of data is their power. Clearly human expressive characters, varying builds and skin tones. Menacing playful energy, not horror. No text on floating cards.
+
+### 02-villains-meaning-and-influence
+
+Create a polished character-design lineup sheet for an original Speaking and Listening classroom superhero comic universe starring The Mouth and The Ear. Contemporary comic art: expressive black ink, sharp cel shading, subtle Ben-Day halftones, coral red, electric cyan, midnight navy, warm ivory, tiny golden accents. Landscape wide 16:9 sheet. Exactly FIVE distinct full-body adult characters in five evenly spaced columns, complete head-to-toe figures, each isolated with space around silhouette. All figures comparable scale, no overlapping. These are original fictional characters, not existing franchise designs. Friendly classroom-appropriate comic storytelling, no gore or weapons. Each character has ONE clear legible name printed underneath in bold simple comic lettering; no other text. Cohesive professional concept art, readable costume differences. SECOND VILLAIN LINEUP. Dark midnight navy studio backdrop, ivory name labels. Left to right: 1 'WORD TWISTER': elegant slim adult man in long coral tailcoat, navy gloves, curled dark hair, twisting coral speech-shaped ribbons between hands, sly theatrical expression. 2 'ECHO CHAMBER': adult woman with shoulder-length white hair and medium-brown skin, navy suit with cyan concentric-ring collar and reflective coral discs, repeated tiny sound rings orbiting her; reinforces only one viewpoint. 3 'RUMOR WEAVER': adult androgynous figure with short dark hair, layered coral scarf and navy suit, delicate cyan threads connecting blank speech-shaped lights, cunning conspiratorial expression. 4 'CONTEXT THIEF': athletic adult woman with dark skin and close-cropped hair, angular navy trench jacket with coral lining, holding a floating incomplete picture frame with one missing corner, playful art-thief vibe; removes important information. 5 'THE MONOLOGUE': tall flamboyant adult man with long swept-back silver hair, oversized coral cape and navy formal superhero suit, holding one hand to chest and other outstretched as a huge blank speech-shaped halo expands behind head, self-important stage performer. All powers symbolic, no weapons, no text inside effects. Distinct silhouettes and heights.
+
+### 03-civilians-campus-and-community
+
+Create a polished character-design lineup sheet for an original Speaking and Listening classroom superhero comic universe starring The Mouth and The Ear. Contemporary comic art: expressive black ink, crisp cel shading, subtle Ben-Day halftones, cohesive coral red, electric cyan, midnight navy, warm ivory, small golden accents. Light warm ivory studio backdrop with faint halftone. Landscape 16:9. Exactly FIVE distinct full-body adult civilian characters in five evenly spaced columns, complete head-to-toe figures, no overlapping, each at comparable scale. These are ordinary people in contemporary everyday clothes, no superhero armor, no capes or superpowers. Warm believable personalities, clear varied silhouettes and natural body language. Each has ONE clearly legible name underneath in bold navy simple lettering; no other text. Props have no writing or logos. Left to right: 1 'MAYA': young adult Black woman university student with natural curly hair, coral hoodie, navy jeans, cyan backpack and notebook held at side; curious friendly expression. 2 'JUN': young adult East Asian man student journalist, short black hair, cyan overshirt over ivory T-shirt, navy trousers, small handheld audio recorder and cross-body bag; attentive engaged pose. 3 'MS. RIVERA': middle-aged Latina teacher with wavy dark bob and glasses, coral cardigan, ivory blouse, navy trousers, holding a few blank lesson cards; encouraging open-palm gesture. 4 'ELI': young adult white nonbinary audio technician with short auburn hair, navy work shirt with cyan sleeves, practical cargo trousers, coral headphones around neck, holding a coiled cable; relaxed capable pose. 5 'AMARA': adult brown-skinned community organizer, dark hair in a simple bun, cyan jacket and navy trousers, coral folder tucked under one arm, gesturing in welcome; confident grounded personality. Realistic varied builds, age and heights, ordinary footwear.
+
+### 04-civilians-city-stories
+
+Create a polished character-design lineup sheet for an original Speaking and Listening classroom superhero comic universe starring The Mouth and The Ear. Contemporary comic art: expressive black ink, crisp cel shading, subtle Ben-Day halftones, cohesive coral red, electric cyan, midnight navy, warm ivory, small golden accents. Light warm ivory studio backdrop with faint halftone. Landscape 16:9. Exactly FIVE distinct full-body adult civilian characters in five evenly spaced columns, complete head-to-toe figures, no overlapping, each at comparable scale. These are ordinary people in contemporary everyday clothes, no superhero armor, no capes or superpowers. Warm believable personalities, clear varied silhouettes and natural body language. Each has ONE clearly legible name underneath in bold navy simple lettering; no other text. Props have no writing or logos. Left to right: 1 'LEO': young adult Latino man cafe worker with curly brown hair, coral T-shirt and navy apron, practical trousers and sneakers, carrying a cup on a small tray; cheerful expression. 2 'PRIYA': adult South Asian woman librarian with long black braid and glasses, ivory blouse, cyan long cardigan, navy trousers, holding two closed unmarked books; thoughtful warm expression. 3 'MR. CHEN': elderly East Asian man neighborhood shopkeeper with silver hair, navy cardigan over coral polo, beige trousers, holding a small plain paper grocery bag; kindly animated storyteller. 4 'ZOE': young adult white woman engineering student who uses an active manual wheelchair, short dark hair, coral bomber jacket over cyan T-shirt, navy trousers and sneakers, notebook on lap; lively curious expression. Show the entire wheelchair cleanly as natural part of her full-body silhouette. 5 'SAM': adult Black man city bus driver with short hair and neatly trimmed beard, light cyan short-sleeved work shirt, navy trousers, holding a folded blank route-map brochure, friendly reassuring expression. Clear distinct everyday silhouettes, all ordinary adults.
+

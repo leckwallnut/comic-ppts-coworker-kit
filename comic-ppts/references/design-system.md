@@ -1,0 +1,11 @@
+# Speaking and Listening comic design
+
+Use original modern superhero comic art, strong black ink outlines, halftone edges, city scenes, coral, cyan, navy and ivory. Widescreen 16:9. This is the user's established identity, not a request to reproduce a branded franchise.
+
+Palette: deep navy #071A35 / #10243D, near-black ink #090D16, warm ivory #FFFEFA, coral #FF756B, cyan #40CBE4, pale tan #FFF3C8. Use dark text on light panes and ivory text on navy panes. Prefer Arial Bold headings and Arial Regular body. Start around 44–52 pt for deck titles, 32–40 pt slide titles, 24–28 pt teaching text, and 24–32 pt tab labels. Labels must remain readable on a classroom projector. Short footer answers may need 20–24 pt; move longer answers into a larger pane rather than shrinking them.
+
+The user's latest decisions supersede the retained sample: put stage titles such as THINK, PAIR and SHARE IN the header tabs, instructions in the main panes, and short hints, answers or reminders IN the tan footer/callout areas. The old reference's stage titles sit below the tabs; do not repeat that choice. Choose a wider or taller standalone tab from assets/library/tabs-and-panes when needed. Reserve comfortable interior margins, especially at slanted corners. Pane artwork is a background; text must be native editable PowerPoint text above it.
+
+Use panes as the main organizing device. Select their count, size and position to suit the lesson. Mix partial-page overlays with full-page layouts; preserve visible background art where it helps. Avoid making every slide the same grid. Use at least several purposeful layout families over a lesson: opening scene, model/example, listening task, think–pair–share, debate, comparison, practice, answer reveal, reflection. This is not a mandatory slide order or count.
+
+Preserve PNG alpha and SVG aspect ratio. Assets are either full-slide overlays or individually sized components. Do not stretch a standalone square icon to cover a full slide. Transparent gutters expose the background; white/navy panel interiors remain opaque. Dark-on-light ready-to-use PNGs already include a light background. Avoid accidentally stacking them over another background expecting transparency.
