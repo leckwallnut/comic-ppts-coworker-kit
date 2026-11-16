@@ -1,11 +1,11 @@
-﻿---
+---
 name: comic-ppts
-description: "Create or restyle Speaking and Listening PowerPoint lessons in the user's superhero comic style with The Mouth and The Ear, bundled comic backgrounds, white or navy panes, editable header tabs and footer answers, and native click reveals. Use for Speaking and Listening comic slides or this saved template."
+description: "Create or restyle Speaking and Listening PowerPoint lessons in the user's superhero comic style with The Mouth and The Ear, bundled comic backgrounds, white or navy panes, editable header tabs and footer answers, and native click reveals. Use for Speaking and Listening comic slides, comic PPTs, or this saved template."
 ---
 
 # Speaking and Listening Comic PPTs
 
-Build classroom PowerPoint lessons using the original comic system developed with the user. Read artifact-template.json and resolve its paths relative to this skill. Keep assets/reference.pptx unchanged. Use an available PowerPoint authoring workflow in Claude Code, preserving editable text and the bundled visual system. Read references/claude-code-authoring.md before building.
+Build classroom PowerPoint lessons using the original comic system developed with the user. Read artifact-template.json and resolve its paths relative to this skill. Keep assets/reference.pptx unchanged. Use whatever PowerPoint authoring workflow your assistant provides, preserving editable text and the bundled visual system. Read references/authoring.md before building.
 
 Read [design-system.md](references/design-system.md), [asset-library.md](references/asset-library.md), [motion.md](references/motion.md), and [workflow.md](references/workflow.md). These record the user's latest decisions and take precedence over older choices in the reference deck.
 

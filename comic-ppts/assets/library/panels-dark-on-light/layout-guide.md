@@ -4,7 +4,7 @@
 
 - **ready-to-use-backgrounds/**: flattened 1920 × 1080 PNGs with the light ivory comic background included. Set one as the slide background, then add editable text above the panes.
 - **PNG and SVG files in this folder**: transparent panel overlays. Place these at full slide size over any light background.
-- **00-dark-on-light-overview.png**: all 20 combinations for browsing.
+- **00-dark-on-light-overview.jpg**: all 20 combinations for browsing.
 
 Use white or warm ivory text inside navy panes and callouts, and dark navy text in coral/cyan title tabs. Keep text below the tabs and clear of inset callouts. The assets contain no text. Main panels occupy 23–39% of the slide, leaving ample background visible.
 

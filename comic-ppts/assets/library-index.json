@@ -1,53 +1,63 @@
 [
   {
-    "path": "assets/library/backgrounds-light-and-mixed/01-title-city.png",
-    "bytes": 1713115,
-    "sha256": "614534b5dc1f63b41d94aac4ce8c43ee4678075bcf7b998a0e261d97c95ebe91"
+    "path": "assets/library/backgrounds-light-and-mixed/01-title-city.jpg",
+    "bytes": 378122,
+    "sha256": "c95329ddd880193d104fba74090350f3a1a966b653bee1a6299ea95a07088df5",
+    "originalSha256": "614534b5dc1f63b41d94aac4ce8c43ee4678075bcf7b998a0e261d97c95ebe91"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/02-light-lesson.png",
-    "bytes": 1699125,
-    "sha256": "f919cd0f213f9ea417874f26a7bdae885ffc32f45314f8b437f7800c4be9496d"
+    "path": "assets/library/backgrounds-light-and-mixed/02-light-lesson.jpg",
+    "bytes": 247334,
+    "sha256": "af8195928e4f98a857f01ee284412ed3aa176a98ec795b50e538528890b3d1f8",
+    "originalSha256": "f919cd0f213f9ea417874f26a7bdae885ffc32f45314f8b437f7800c4be9496d"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/03-speaking-focus.png",
-    "bytes": 2131122,
-    "sha256": "9ae636fe89a0a41e07b2749eacfb08cd41aee9fbdb9f6b682c8a97faddbe628a"
+    "path": "assets/library/backgrounds-light-and-mixed/03-speaking-focus.jpg",
+    "bytes": 387570,
+    "sha256": "02a110eaecb96210465e4a1513a17449065c09605ef05c69232354355292ff22",
+    "originalSha256": "9ae636fe89a0a41e07b2749eacfb08cd41aee9fbdb9f6b682c8a97faddbe628a"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/04-listening-focus.png",
-    "bytes": 2044757,
-    "sha256": "74b1da6e001a2c698e70020900cb6d6a833d73abff7d852fe453f6d16a41cbee"
+    "path": "assets/library/backgrounds-light-and-mixed/04-listening-focus.jpg",
+    "bytes": 330265,
+    "sha256": "0df41b0779c4c9504114b19931f7f629674df1f2243cac8de178dde4ade8267e",
+    "originalSha256": "74b1da6e001a2c698e70020900cb6d6a833d73abff7d852fe453f6d16a41cbee"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/05-pair-dialogue.png",
-    "bytes": 2247807,
-    "sha256": "629cea3a4c675cc98218197452ffa2c7fb9d25306651f79bfe5c220f027b91d4"
+    "path": "assets/library/backgrounds-light-and-mixed/05-pair-dialogue.jpg",
+    "bytes": 427401,
+    "sha256": "e6a3975974627c0a7ed7c150a1f05c57a320a232c587be517bf1dd6e27ab74e6",
+    "originalSha256": "629cea3a4c675cc98218197452ffa2c7fb9d25306651f79bfe5c220f027b91d4"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/06-instructions.png",
-    "bytes": 1994978,
-    "sha256": "817d23417974778e566a54db08dcd2028fc06d46126776561e0bd14ef7487cab"
+    "path": "assets/library/backgrounds-light-and-mixed/06-instructions.jpg",
+    "bytes": 322897,
+    "sha256": "b061149fc4d12a612deeb3a414a0f677fdfab70bb8e613f5af18f379617e1f71",
+    "originalSha256": "817d23417974778e566a54db08dcd2028fc06d46126776561e0bd14ef7487cab"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/07-listening-night.png",
-    "bytes": 1647128,
-    "sha256": "386328de57fb43d9992953261dd888cddb675dde66a3a661e3812781960afa96"
+    "path": "assets/library/backgrounds-light-and-mixed/07-listening-night.jpg",
+    "bytes": 281861,
+    "sha256": "73af9596424b883cae204328964bcee5562cb1a1aea6ab0f50a5894924ac6a67",
+    "originalSha256": "386328de57fb43d9992953261dd888cddb675dde66a3a661e3812781960afa96"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/08-challenge.png",
-    "bytes": 1998685,
-    "sha256": "4a4438377f060957ab91b08332c20fae5719bed1e19ed601f814de81ef6d995f"
+    "path": "assets/library/backgrounds-light-and-mixed/08-challenge.jpg",
+    "bytes": 409890,
+    "sha256": "db618fc4c7d2387240e6b52456170abbb7779d56d018a22b8ee133b212acfdfc",
+    "originalSha256": "4a4438377f060957ab91b08332c20fae5719bed1e19ed601f814de81ef6d995f"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/09-reflection.png",
-    "bytes": 1857489,
-    "sha256": "f1f5ba928a38c3cc13d4a56c907f6b4b9a5305836630add9961cfc8e495301ba"
+    "path": "assets/library/backgrounds-light-and-mixed/09-reflection.jpg",
+    "bytes": 302723,
+    "sha256": "317fb19179e0b9d4f61b9ee16184c98f1d3386cbf17a5ff9385bde1e28c8c401",
+    "originalSha256": "f1f5ba928a38c3cc13d4a56c907f6b4b9a5305836630add9961cfc8e495301ba"
   },
   {
-    "path": "assets/library/backgrounds-light-and-mixed/10-closing.png",
-    "bytes": 2145119,
-    "sha256": "b564ac8abd903e6f083c1d6e052ac2c1211127d2426623be21f0381061e47c6e"
+    "path": "assets/library/backgrounds-light-and-mixed/10-closing.jpg",
+    "bytes": 532123,
+    "sha256": "1c30f3678125b9dc1c94ff382336dfd332052b3cbf34faa914e1f5e9deb32cff",
+    "originalSha256": "b564ac8abd903e6f083c1d6e052ac2c1211127d2426623be21f0381061e47c6e"
   },
   {
     "path": "assets/library/backgrounds-light-and-mixed/prompts-and-guide.md",
@@ -55,54 +65,64 @@
     "sha256": "d96f1c144b4253301517d1a18a4b076efe20817d3cd73f0b340cd5fd9dde3a81"
   },
   {
-    "path": "assets/library/backgrounds-dark/11-midnight-rooftops.png",
-    "bytes": 1993246,
-    "sha256": "99c9d704673d180b344256da094d63c1bd15ed9262a8160f7f59437bcaf45af1"
+    "path": "assets/library/backgrounds-dark/11-midnight-rooftops.jpg",
+    "bytes": 336823,
+    "sha256": "587166b7dd51231bfae6236c7eb2f4900cbf7c7fa533790832d223ad803366fb",
+    "originalSha256": "99c9d704673d180b344256da094d63c1bd15ed9262a8160f7f59437bcaf45af1"
   },
   {
-    "path": "assets/library/backgrounds-dark/12-coral-speaking.png",
-    "bytes": 2014451,
-    "sha256": "2e0070b5e85d133fb810bb872a02658fb44dd44c2c206488690c12cd6420d392"
+    "path": "assets/library/backgrounds-dark/12-coral-speaking.jpg",
+    "bytes": 372747,
+    "sha256": "2a18e63dbd88eca4d29f547c34deeaa8c4a2de231a7bbab92c4dfaec112f38cd",
+    "originalSha256": "2e0070b5e85d133fb810bb872a02658fb44dd44c2c206488690c12cd6420d392"
   },
   {
-    "path": "assets/library/backgrounds-dark/13-cyan-listening.png",
-    "bytes": 1900364,
-    "sha256": "d0d5a824f6b9151c621fa9e9b731897571f916cae02a3d2acc3461ac7df648fd"
+    "path": "assets/library/backgrounds-dark/13-cyan-listening.jpg",
+    "bytes": 290686,
+    "sha256": "d44ec43f670516052d8710089e45d15b3f4867fcd2acc51b0dfc0f42bd9d3687",
+    "originalSha256": "d0d5a824f6b9151c621fa9e9b731897571f916cae02a3d2acc3461ac7df648fd"
   },
   {
-    "path": "assets/library/backgrounds-dark/14-dark-dialogue.png",
-    "bytes": 1704645,
-    "sha256": "eb2bd41c67b4f4dd18c5d4aeebcdcd3e52bd934c6736ab9c8f51486912639140"
+    "path": "assets/library/backgrounds-dark/14-dark-dialogue.jpg",
+    "bytes": 395731,
+    "sha256": "326c4e3c663829f864db911563eac3483471867b9303b88659f133b9103717b1",
+    "originalSha256": "eb2bd41c67b4f4dd18c5d4aeebcdcd3e52bd934c6736ab9c8f51486912639140"
   },
   {
-    "path": "assets/library/backgrounds-dark/15-night-mission.png",
-    "bytes": 1963958,
-    "sha256": "55d3ee06337a7a7068f243bc7db633dbdc9f02bfc5620c2ce9d3184339406b64"
+    "path": "assets/library/backgrounds-dark/15-night-mission.jpg",
+    "bytes": 312549,
+    "sha256": "256b3490f278734c3506403d75c3d7c1e3024713e79928fbc4943f3f9f46eb0f",
+    "originalSha256": "55d3ee06337a7a7068f243bc7db633dbdc9f02bfc5620c2ce9d3184339406b64"
   },
   {
-    "path": "assets/library/backgrounds-dark/16-rainy-city.png",
-    "bytes": 1765705,
-    "sha256": "c27dc416f630f57a678dd6125e4705fb779f29f694618efdacb80b1f21bd96c4"
+    "path": "assets/library/backgrounds-dark/16-rainy-city.jpg",
+    "bytes": 337842,
+    "sha256": "e40a97131ca46dbfefe33aa5d90f003c670dc43622a5a7941c1d96b35a6e5dae",
+    "originalSha256": "c27dc416f630f57a678dd6125e4705fb779f29f694618efdacb80b1f21bd96c4"
   },
   {
-    "path": "assets/library/backgrounds-dark/17-sound-lab.png",
-    "bytes": 1917701,
-    "sha256": "97ce318401cb2bd84d4455b05b72b852fa3f544bb339787bf9f753df40edd0d0"
+    "path": "assets/library/backgrounds-dark/17-sound-lab.jpg",
+    "bytes": 342523,
+    "sha256": "702a51cc39b05aa533537ac8bc74f03577239f30f58ecde28d209fdb0bd773fa",
+    "originalSha256": "97ce318401cb2bd84d4455b05b72b852fa3f544bb339787bf9f753df40edd0d0"
   },
   {
-    "path": "assets/library/backgrounds-dark/18-night-challenge.png",
-    "bytes": 1903341,
-    "sha256": "085fdd854b5b9cb6b49184ef6db231e6983962a0c2b8074752669a835683161a"
+    "path": "assets/library/backgrounds-dark/18-night-challenge.jpg",
+    "bytes": 372280,
+    "sha256": "a522418a09f35b339d7db290eb796970517593a71cf04df3c157fcaa26333114",
+    "originalSha256": "085fdd854b5b9cb6b49184ef6db231e6983962a0c2b8074752669a835683161a"
   },
   {
-    "path": "assets/library/backgrounds-dark/19-reflection-moon.png",
-    "bytes": 1812233,
-    "sha256": "ff32667de14a25c9bfea546e82fbfea4effcb26589cdb518f6c2812a4db7a17f"
+    "path": "assets/library/backgrounds-dark/19-reflection-moon.jpg",
+    "bytes": 304477,
+    "sha256": "a6d030ce120ed199b0e6127e9176e0ee598c1de4b401c46168303be74ab756ef",
+    "originalSha256": "ff32667de14a25c9bfea546e82fbfea4effcb26589cdb518f6c2812a4db7a17f"
   },
   {
-    "path": "assets/library/backgrounds-dark/20-final-signal.png",
-    "bytes": 1974357,
-    "sha256": "d306820a10c65096a7bfe24c3667b8ac25ab95af729c36be6b0b466cea7ff1ea"
+    "path": "assets/library/backgrounds-dark/20-final-signal.jpg",
+    "bytes": 407380,
+    "sha256": "d8ead3dcfee89e02bf6dc28ea6b6878a190ef5ed1542787347ddd529717ced22",
+    "originalSha256": "d306820a10c65096a7bfe24c3667b8ac25ab95af729c36be6b0b466cea7ff1ea"
   },
   {
     "path": "assets/library/backgrounds-dark/prompts-and-guide.md",
@@ -325,9 +345,10 @@
     "sha256": "321fb91814413220f49b28417f5440972bf95a8549ef9238cb556e413dd28781"
   },
   {
-    "path": "assets/library/panels-white-partial/00-partial-layout-overview.png",
-    "bytes": 1176448,
-    "sha256": "60c5fffe03aec0f596b832f1e3e9ffa47ccb71ba327930fa896fe0133f34c0f0"
+    "path": "assets/library/panels-white-partial/00-partial-layout-overview.jpg",
+    "bytes": 683527,
+    "sha256": "f08d76938cdaf9400d2f25fe73109845a9dd1af092cdfa72d85fbae789a303cc",
+    "originalSha256": "60c5fffe03aec0f596b832f1e3e9ffa47ccb71ba327930fa896fe0133f34c0f0"
   },
   {
     "path": "assets/library/panels-white-partial/21-left-feature.png",
@@ -540,9 +561,10 @@
     "sha256": "446e693c9c248b5f3f196fb8accb6a06a98bb0068d6f9c84bc7b2225cbac26e0"
   },
   {
-    "path": "assets/library/panels-dark-on-light/00-dark-on-light-overview.png",
-    "bytes": 1080998,
-    "sha256": "4c8f06743fc95799a426c265992d501ec22f1da7073220812d69c75f0109f536"
+    "path": "assets/library/panels-dark-on-light/00-dark-on-light-overview.jpg",
+    "bytes": 664935,
+    "sha256": "ab16fe175d21db9296080acc422f542a19dcbfdae0135c3469616d87dde33902",
+    "originalSha256": "4c8f06743fc95799a426c265992d501ec22f1da7073220812d69c75f0109f536"
   },
   {
     "path": "assets/library/panels-dark-on-light/21-left-feature-dark.png",
@@ -752,107 +774,127 @@
   {
     "path": "assets/library/panels-dark-on-light/layout-guide.md",
     "bytes": 2761,
-    "sha256": "54b744081556a10f65bf98df381a5b5557d820953b61faf729d4bcf15933a70f"
+    "sha256": "9943428c35cbd27d29fadc978ed4882f918a7046b4aa6e88f9bec6dbd3921a79"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/21-left-feature-dark-on-light.png",
-    "bytes": 1675444,
-    "sha256": "c1ad36f497e800d11b510198c626318d083668a66d77ca100eb3e8666d35eb85"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/21-left-feature-dark-on-light.jpg",
+    "bytes": 220195,
+    "sha256": "27cc6c365b74df713e70eb67176f33793086192581d87180a46c5f83d3272051",
+    "originalSha256": "c1ad36f497e800d11b510198c626318d083668a66d77ca100eb3e8666d35eb85"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/22-right-feature-dark-on-light.png",
-    "bytes": 1847565,
-    "sha256": "3afbbcf2750c79e2a3987b6dbb45a9cb36fc586ffce426a29c1858d845c1ad50"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/22-right-feature-dark-on-light.jpg",
+    "bytes": 269656,
+    "sha256": "e55968ed2225d6a826f0edb1c6b7f7c9f014605c779a27d8dca3440ccea03e70",
+    "originalSha256": "3afbbcf2750c79e2a3987b6dbb45a9cb36fc586ffce426a29c1858d845c1ad50"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/23-lower-story-dark-on-light.png",
-    "bytes": 1772304,
-    "sha256": "5696b8d636f2b846f6b23f2e8546f1f6010fe960cd874e8b68d8dc7d8d49ff68"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/23-lower-story-dark-on-light.jpg",
+    "bytes": 231210,
+    "sha256": "ca2ef7e705d101ec012503e64c0ae6c829dedaa7134496abc599928b08bfbbaa",
+    "originalSha256": "5696b8d636f2b846f6b23f2e8546f1f6010fe960cd874e8b68d8dc7d8d49ff68"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/24-top-briefing-dark-on-light.png",
-    "bytes": 1856376,
-    "sha256": "6ad4af589a2962c5b314fd445d5fe66d0ff21b484e99ca5a5f5dd5e423e0d0e8"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/24-top-briefing-dark-on-light.jpg",
+    "bytes": 249398,
+    "sha256": "6d947bbe7076832327b66dc934678cd667f3a739e95cd29a6b89d32afb51596f",
+    "originalSha256": "6ad4af589a2962c5b314fd445d5fe66d0ff21b484e99ca5a5f5dd5e423e0d0e8"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/25-floating-focus-dark-on-light.png",
-    "bytes": 2038672,
-    "sha256": "7879524306e3fa79d694324cef1fc2cff505363a7e663ebc30986114d04d3f9f"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/25-floating-focus-dark-on-light.jpg",
+    "bytes": 282283,
+    "sha256": "ca1eb3649c2e2c84101bbeee9275f63b3315d216485a01450b60493e688a8c13",
+    "originalSha256": "7879524306e3fa79d694324cef1fc2cff505363a7e663ebc30986114d04d3f9f"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/26-left-pair-dark-on-light.png",
-    "bytes": 1788375,
-    "sha256": "2b5a0bd640f51b132ff4dd50b09c7f5b296ea17436628165162a31c91a0d14b7"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/26-left-pair-dark-on-light.jpg",
+    "bytes": 229215,
+    "sha256": "68487392c4a40e145af7e3744823b8ec3d5f8656d076e036d9276ff5e615b091",
+    "originalSha256": "2b5a0bd640f51b132ff4dd50b09c7f5b296ea17436628165162a31c91a0d14b7"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/27-right-pair-dark-on-light.png",
-    "bytes": 1946772,
-    "sha256": "9b99214df3d7ffd2c97834bff1e7ea96b53d1be4dadf57a193c1b189a2871522"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/27-right-pair-dark-on-light.jpg",
+    "bytes": 275722,
+    "sha256": "807be175a17eeb82e662b82bfb9a5cc5216261d8e71622451a9d73a90f6b8e07",
+    "originalSha256": "9b99214df3d7ffd2c97834bff1e7ea96b53d1be4dadf57a193c1b189a2871522"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/28-bottom-partners-dark-on-light.png",
-    "bytes": 1720078,
-    "sha256": "985f490346d52d70f15777252e31cd29636e55298da66ab422bac5daf73a841b"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/28-bottom-partners-dark-on-light.jpg",
+    "bytes": 233006,
+    "sha256": "798b6184376e5cfe8310c0d3d619397717b26ea4e9422d7a294f7cc7e1764a86",
+    "originalSha256": "985f490346d52d70f15777252e31cd29636e55298da66ab422bac5daf73a841b"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/29-top-partners-dark-on-light.png",
-    "bytes": 1802032,
-    "sha256": "9b4a0d9748a32e0c6ef7c9687e888da07e45b6093498a7353f5224a63e6cf637"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/29-top-partners-dark-on-light.jpg",
+    "bytes": 250825,
+    "sha256": "94911ec5488901fe8417b2a0a642363d058121eea61b7f634c9ef0f2145e0ca6",
+    "originalSha256": "9b4a0d9748a32e0c6ef7c9687e888da07e45b6093498a7353f5224a63e6cf637"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/30-diagonal-dialogue-dark-on-light.png",
-    "bytes": 1884930,
-    "sha256": "1cf1e7a9c8e920455b5bb1912fd401bec4a85ced5b21e9ca838e0ffb4d84d76a"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/30-diagonal-dialogue-dark-on-light.jpg",
+    "bytes": 264413,
+    "sha256": "adf1ec7ac1413cac7f1d9d69431e3f80f5ff6471180c67385fe9c36deaa2f1d8",
+    "originalSha256": "1cf1e7a9c8e920455b5bb1912fd401bec4a85ced5b21e9ca838e0ffb4d84d76a"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/31-corner-conversation-dark-on-light.png",
-    "bytes": 1838881,
-    "sha256": "fb565f822c625e950e83cf829c339a42746cb5fd708f67804ae241ca2b01fce7"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/31-corner-conversation-dark-on-light.jpg",
+    "bytes": 249755,
+    "sha256": "568e9594aed14b2e01bc5490125ba59a0c43699420900cb58f2be5f8bde1edee",
+    "originalSha256": "fb565f822c625e950e83cf829c339a42746cb5fd708f67804ae241ca2b01fce7"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/32-bottom-think-pair-share-dark-on-light.png",
-    "bytes": 1733998,
-    "sha256": "e807b7a38e68624b85e0c516489e3a25e5fe71207ed12fbd8fb1a679c5af617e"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/32-bottom-think-pair-share-dark-on-light.jpg",
+    "bytes": 238135,
+    "sha256": "219b8bcf7f90fe4f8640cfa3520df4938bfb64ea732bd5522f62511a79c9fa68",
+    "originalSha256": "e807b7a38e68624b85e0c516489e3a25e5fe71207ed12fbd8fb1a679c5af617e"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/33-left-three-steps-dark-on-light.png",
-    "bytes": 1736004,
-    "sha256": "8261409d08794f08a2e31f55a8667030789560344cde52a0c43aafc0a34385ba"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/33-left-three-steps-dark-on-light.jpg",
+    "bytes": 221646,
+    "sha256": "8506052aab1c046fd7d7206daa59169f71d7c80279a5609153e55deb7d7f9e4c",
+    "originalSha256": "8261409d08794f08a2e31f55a8667030789560344cde52a0c43aafc0a34385ba"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/34-right-three-steps-dark-on-light.png",
-    "bytes": 1926017,
-    "sha256": "75432f673d83092ba8868854f96d2f65b2bab527fb4847a6b5a8fdcc7a032087"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/34-right-three-steps-dark-on-light.jpg",
+    "bytes": 276539,
+    "sha256": "6d83ae927863499511b6c54dbc16d9bc1edd99393b3ef2466fcc503cb27fa98d",
+    "originalSha256": "75432f673d83092ba8868854f96d2f65b2bab527fb4847a6b5a8fdcc7a032087"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/35-ascending-story-dark-on-light.png",
-    "bytes": 1905443,
-    "sha256": "792172d5554cd58e76ce6a21059ff7500c06933ea79f6de4d604b0bca7f5993f"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/35-ascending-story-dark-on-light.jpg",
+    "bytes": 253566,
+    "sha256": "ed15edf804c15efe067ba9f1d21e5c655a44795bbac24f03d9000463e94be7ec",
+    "originalSha256": "792172d5554cd58e76ce6a21059ff7500c06933ea79f6de4d604b0bca7f5993f"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/36-open-center-debate-dark-on-light.png",
-    "bytes": 1579073,
-    "sha256": "d6b89e97183fb19ec38ed1e259d99c07147417b5c99dacb83252644c0e1f1eda"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/36-open-center-debate-dark-on-light.jpg",
+    "bytes": 234336,
+    "sha256": "c1d0d00793e8d6895b5dab3e392fd442dca73d8b032ba7b96d022826ffae63f7",
+    "originalSha256": "d6b89e97183fb19ec38ed1e259d99c07147417b5c99dacb83252644c0e1f1eda"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/37-four-corner-notes-dark-on-light.png",
-    "bytes": 1574252,
-    "sha256": "7dae4a56ec0c9707807c336d7abdabaa108c9774e02bcdbe733f8a1f5884f62a"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/37-four-corner-notes-dark-on-light.jpg",
+    "bytes": 228540,
+    "sha256": "384ebcaf15b1b9b2c249b058df589b515d15b35ee42dda06f9f4ff614d789ab9",
+    "originalSha256": "7dae4a56ec0c9707807c336d7abdabaa108c9774e02bcdbe733f8a1f5884f62a"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/38-feature-and-cards-dark-on-light.png",
-    "bytes": 1572724,
-    "sha256": "27c5d89d91cbf92ead2dd355058fb38b2cbaa470ed31ac1b91b4e5960040367e"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/38-feature-and-cards-dark-on-light.jpg",
+    "bytes": 242547,
+    "sha256": "eef84baefcd81a23f562d54c3036ec44b24dcfa2efcb9cbefb04a4ded9965316",
+    "originalSha256": "27c5d89d91cbf92ead2dd355058fb38b2cbaa470ed31ac1b91b4e5960040367e"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/39-l-shaped-sequence-dark-on-light.png",
-    "bytes": 1595715,
-    "sha256": "bae3ca37162ec63e01ea67c1d598f622ca5b056dd35b7613bf5088469520bd49"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/39-l-shaped-sequence-dark-on-light.jpg",
+    "bytes": 227603,
+    "sha256": "a54bd81ceccee037b71aecc83a1c303ad0088165cfb59440c65a0516b71b5e27",
+    "originalSha256": "bae3ca37162ec63e01ea67c1d598f622ca5b056dd35b7613bf5088469520bd49"
   },
   {
-    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/40-five-quick-prompts-dark-on-light.png",
-    "bytes": 1727491,
-    "sha256": "04f28cb6ae207f8c5f0a30eaff2b141d9357a23cf7f93a35da5512ef00c23e3a"
+    "path": "assets/library/panels-dark-on-light/ready-to-use-backgrounds/40-five-quick-prompts-dark-on-light.jpg",
+    "bytes": 252826,
+    "sha256": "9269914fb75c704be5ec52daebc9b0f0e2818fa65176a24e866b046c25f2c7cc",
+    "originalSha256": "04f28cb6ae207f8c5f0a30eaff2b141d9357a23cf7f93a35da5512ef00c23e3a"
   },
   {
     "path": "assets/library/teaching-components/00-component-overview.png",
@@ -1290,39 +1332,46 @@
     "sha256": "a023af748589450640e6dee1015d749f26875c52310ab108299f11f956c1f682"
   },
   {
-    "path": "assets/library/mouth-sonic-preferred/the-mouth-sonic-female.png",
-    "bytes": 2253052,
-    "sha256": "a49125551203711aa1e7a8ff8bc7a844bcdc8fd064d83790b27527d2373c7e50"
+    "path": "assets/library/mouth-sonic-preferred/the-mouth-sonic-female.jpg",
+    "bytes": 532747,
+    "sha256": "0f8d1d8454369e71069576178eda90f0172c64d6d512b8cb5d93ac57504dfa54",
+    "originalSha256": "a49125551203711aa1e7a8ff8bc7a844bcdc8fd064d83790b27527d2373c7e50"
   },
   {
-    "path": "assets/library/mouth-sonic-preferred/the-mouth-sonic-male.png",
-    "bytes": 2287769,
-    "sha256": "e061c3b876080dd526ec3616c0fc3c1218191e38b247b6bce3940f2a5e5f7d7f"
+    "path": "assets/library/mouth-sonic-preferred/the-mouth-sonic-male.jpg",
+    "bytes": 523597,
+    "sha256": "2211f81438134c0fec36db282923821337d29763cf13766b27047fab6cc16aad",
+    "originalSha256": "e061c3b876080dd526ec3616c0fc3c1218191e38b247b6bce3940f2a5e5f7d7f"
   },
   {
-    "path": "assets/library/mouth-earlier-concepts/01-the-voice-captain.png",
-    "bytes": 2253288,
-    "sha256": "138d7afba1e746231fe875638d7801f6465a5918857aee1d51876ddd549fbf58"
+    "path": "assets/library/mouth-earlier-concepts/01-the-voice-captain.jpg",
+    "bytes": 478397,
+    "sha256": "97ca5ef9525c3e91dfce76d12f67322d7e7605b5b5e8b434a28cea19bb44f1bf",
+    "originalSha256": "138d7afba1e746231fe875638d7801f6465a5918857aee1d51876ddd549fbf58"
   },
   {
-    "path": "assets/library/mouth-earlier-concepts/02-the-street-speaker.png",
-    "bytes": 2430230,
-    "sha256": "ab518cd63a07584b3e448a54d5d3a9701b3ff7e26a2734b89156798a4f88b16d"
+    "path": "assets/library/mouth-earlier-concepts/02-the-street-speaker.jpg",
+    "bytes": 538170,
+    "sha256": "41557f91ee778fc1b309a36e45206b8eeccfef5f315236c524f2fd8298d5b1dd",
+    "originalSha256": "ab518cd63a07584b3e448a54d5d3a9701b3ff7e26a2734b89156798a4f88b16d"
   },
   {
-    "path": "assets/library/mouth-earlier-concepts/03-the-sonic-knight.png",
-    "bytes": 2131329,
-    "sha256": "629ef2119b01d99cf73e90c4527b4a2f9ce2dd861d7b4410d27be14024661c0c"
+    "path": "assets/library/mouth-earlier-concepts/03-the-sonic-knight.jpg",
+    "bytes": 434791,
+    "sha256": "9ad2b7c4accc0c56f25bb3999926fa9ce4ed10efb007247332a77cc67d89d66d",
+    "originalSha256": "629ef2119b01d99cf73e90c4527b4a2f9ce2dd861d7b4410d27be14024661c0c"
   },
   {
-    "path": "assets/library/mouth-earlier-concepts/04-the-storyweaver.png",
-    "bytes": 2230256,
-    "sha256": "a3294d5808f184db8e52423d434231a502279c68a18a9f4fa0083b66897de25b"
+    "path": "assets/library/mouth-earlier-concepts/04-the-storyweaver.jpg",
+    "bytes": 445849,
+    "sha256": "6f993c9b0fd46c9f265bfa2b524a4df5e7ebc7b8ab3c5d92c774ff2886c20df3",
+    "originalSha256": "a3294d5808f184db8e52423d434231a502279c68a18a9f4fa0083b66897de25b"
   },
   {
-    "path": "assets/library/mouth-earlier-concepts/05-the-mighty-mouth.png",
-    "bytes": 1885401,
-    "sha256": "4d69d4350e1d17588f24b9722c19e7e6406953e5e1514a094a05300c3333383f"
+    "path": "assets/library/mouth-earlier-concepts/05-the-mighty-mouth.jpg",
+    "bytes": 309110,
+    "sha256": "df52b1499ff568a8a1df7d99eaab1e406e8ad749127f91b6b1aea041d8b3a23d",
+    "originalSha256": "4d69d4350e1d17588f24b9722c19e7e6406953e5e1514a094a05300c3333383f"
   },
   {
     "path": "assets/library/mouth-earlier-concepts/design-prompts.md",
@@ -1330,24 +1379,28 @@
     "sha256": "e89f7606d3c84707aa03a41de0b3b96e44c282eab9f6b8ccb5e962de66b44fbf"
   },
   {
-    "path": "assets/library/supporting-cast/01-villains-signal-and-noise.png",
-    "bytes": 2960248,
-    "sha256": "db5053404a2b2249f0640f22609d641c8e032ed894fb6c7c306b0b94a7c0fcde"
+    "path": "assets/library/supporting-cast/01-villains-signal-and-noise.jpg",
+    "bytes": 719284,
+    "sha256": "5ca316e48c0660805549ee506eddd3e6a1aa30e92ba59d2097ad4cf67e9069fa",
+    "originalSha256": "db5053404a2b2249f0640f22609d641c8e032ed894fb6c7c306b0b94a7c0fcde"
   },
   {
-    "path": "assets/library/supporting-cast/02-villains-meaning-and-influence.png",
-    "bytes": 2487355,
-    "sha256": "c098d3d22fc9e1c5aed07038c53aad5478857e15c94ddbd56bdf5e1c703ab5ad"
+    "path": "assets/library/supporting-cast/02-villains-meaning-and-influence.jpg",
+    "bytes": 611043,
+    "sha256": "6b39d1c0fb5d4637ff3acb4e55c4e966d0447ca5ae4e6e0941a6db3f5ab60248",
+    "originalSha256": "c098d3d22fc9e1c5aed07038c53aad5478857e15c94ddbd56bdf5e1c703ab5ad"
   },
   {
-    "path": "assets/library/supporting-cast/03-civilians-campus-and-community.png",
-    "bytes": 2635357,
-    "sha256": "48f3fef18b59f72645b8901f160c292a67b0bd1193e9c88010ba7b02cf158bca"
+    "path": "assets/library/supporting-cast/03-civilians-campus-and-community.jpg",
+    "bytes": 626561,
+    "sha256": "e8ebfef86627b2008ad39172478b437a62728139dc37427783c9789a0d14193e",
+    "originalSha256": "48f3fef18b59f72645b8901f160c292a67b0bd1193e9c88010ba7b02cf158bca"
   },
   {
-    "path": "assets/library/supporting-cast/04-civilians-city-stories.png",
-    "bytes": 2770557,
-    "sha256": "9ce0ba2244fa427759b47890a5ce7c73eab27961c983ca3344215ed1dc47df0f"
+    "path": "assets/library/supporting-cast/04-civilians-city-stories.jpg",
+    "bytes": 659653,
+    "sha256": "d4027fc698c9ed6d9ae87c2c063a5a91f3411affc8449d08270db972d6dfe74b",
+    "originalSha256": "9ce0ba2244fa427759b47890a5ce7c73eab27961c983ca3344215ed1dc47df0f"
   },
   {
     "path": "assets/library/supporting-cast/character-guide-and-prompts.md",
